@@ -24,5 +24,8 @@ Este repositório está organizado em diretórios e arquivos de acordo com as á
 
 1. **Clonando o repositório**:
    Para começar, clone este repositório em seu ambiente local usando o comando:
+
+   EXEMPLO:
+   git clone https://github.com/seu-usuario/qa-study.git
    
    
